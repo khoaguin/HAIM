@@ -1,3 +1,27 @@
+###########################################################################################################
+#                            Generate Results Table for Length of Stay Models
+###########################################################################################################
+# 
+# Licensed under the Apache License, Version 2.0**
+# You may not use this file except in compliance with the License. You may obtain a copy of the License at
+# https://www.apache.org/licenses/LICENSE-2.0
+# Unless required by applicable law or agreed to in writing, software distributed under the License is 
+# distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or 
+# implied. See the License for the specific language governing permissions and limitations under the License.
+
+#-> Authors: 
+#      Luis R Soenksen (<soenksen@mit.edu>),
+#      Yu Ma (<midsumer@mit.edu>),
+#      Cynthia Zeng (<czeng12@mit.edu>),
+#      Leonard David Jean Boussioux (<leobix@mit.edu>),
+#      Kimberly M Villalobos Carballo (<kimvc@mit.edu>),
+#      Liangyuan Na (<lyna@mit.edu>),
+#      Holly Mika Wiberg (<hwiberg@mit.edu>),
+#      Michael Lingzhi Li (<mlli@mit.edu>),
+#      Ignacio Fuentes (<ifuentes@mit.edu>),
+#      Dimitris J Bertsimas (<dbertsim@mit.edu>),
+# -> Last Update: Dec 30th, 2021
+
 import pandas as pd
 from glob import glob
 from tqdm import tqdm

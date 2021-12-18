@@ -23,18 +23,18 @@
 #      Luis R Soenksen (<soenksen@mit.edu>),
 #      Yu Ma (<midsumer@mit.edu>),
 #      Cynthia Zeng (<czeng12@mit.edu>),
-#      Ignacio Fuentes (<ifuentes@mit.edu>),
 #      Leonard David Jean Boussioux (<leobix@mit.edu>),
-#      Agni Orfanoudaki (<agniorf@mit.edu>),
-#      Holly Mika Wiberg (<hwiberg@mit.edu>),
-#      Michael Lingzhi Li (<mlli@mit.edu>),
 #      Kimberly M Villalobos Carballo (<kimvc@mit.edu>),
 #      Liangyuan Na (<lyna@mit.edu>),
+#      Holly Mika Wiberg (<hwiberg@mit.edu>),
+#      Michael Lingzhi Li (<mlli@mit.edu>),
+#      Ignacio Fuentes (<ifuentes@mit.edu>),
 #      Dimitris J Bertsimas (<dbertsim@mit.edu>),
-# -> Last Update: June 30th, 2021
+# -> Last Update: Dec 30th, 2021
 # -> Changes:
 #       * Added embeddings extraction wrappers
 #       * Added Code for Patient parsing towards Multi-Input AI/ML to predict value of Next Lab/X-Ray with MIMIC-IV
+#       * Add Model helper functions
 
  
 #-------------------------------------------------------------------------------------------------
