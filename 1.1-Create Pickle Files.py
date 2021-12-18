@@ -1,0 +1,1 @@
+# This files describes how we generate the patient-admission-stay level pickle files. 
