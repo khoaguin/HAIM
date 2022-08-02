@@ -1,5 +1,5 @@
 ###########################################################################################################
-#                      Create MIMIC-IV-MM & pickle files from MIMIC-IV & MIMIC-CXR-JPG
+#                      Create HAIM-MIMIC-MM & pickle files from MIMIC-IV & MIMIC-CXR-JPG
 ###########################################################################################################
 # 
 # Licensed under the Apache License, Version 2.0**
@@ -21,7 +21,7 @@
 #      Ignacio Fuentes (<ifuentes@mit.edu>),
 #      Dimitris J Bertsimas (<dbertsim@mit.edu>),
 # -> Last Update: Dec 30th, 2021
-# # Code for Patient parsing in pickle files from MIMIC-IV-MM creation ( MIMIC-IV + MIMIC-CXR-JPG)
+# # Code for Patient parsing in pickle files from HAIM-MIMIC-MM creation ( MIMIC-IV + MIMIC-CXR-JPG)
 # # This files describes how we generate the patient-admission-stay level pickle files. 
 
 #HAIM
