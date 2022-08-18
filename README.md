@@ -1,6 +1,6 @@
 # Holistic Artificial Intelligence in Medicine
 
-This repository contains the code to replicate the data processing, modeling and reporting of our Holistic AI in Medicine (HAIM) accepted for publication in Nature npj Digital Medicine (Soenksen LR, Ma Y, Zeng C et al. 2022). You can find a pre-print in https://arxiv.org/abs/2202.12998. 
+This repository contains the code to replicate the data processing, modeling and reporting of our Holistic AI in Medicine (HAIM) accepted for publication in Nature npj Digital Medicine (Soenksen LR, Ma Y, Zeng C, Boussioux, L.D. et al. 2022). You can find a pre-print in https://arxiv.org/abs/2202.12998. 
 
 ## Integrated multimodal artificial intelligence framework for healthcare applications
 Luis R. Soenksen, Yu Ma, Cynthia Zeng, Léonard Boussioux, Kimberly Villalobos Carballo, Liangyuan Na, Holly M. Wiberg, Michael L. Li, Ignacio Fuentes, Dimitris Bertsimas
