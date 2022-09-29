@@ -13,7 +13,7 @@ The code uses Python3.6.9 and is separated into four sections:
 
 0 - Software Package requirement
 
-1 - Data Preprocessing (NOTES DATA requires direct request to Physionet for download as "discharge notes", "radiology notes", "ECG notes" and "ECHO notes" are yet to be publicly released for MIMIC-IV as of Sep 2022, these files are: ds_icustay.csv, ecg_icustay.csv, echo_icustay.csv, notevents.csv, rad_icustay.csv)
+1 - Data Preprocessing. Noteevents.csv are public and available for download at Physionet.org; however, other "NOTES" data requires pre-release direct permission from Physionet.org for download as "discharge notes", "radiology notes", "ECG notes" and "ECHO notes" are not yet publicly released for MIMIC-IV as of Sep 2022, these files are: ds_icustay.csv, ecg_icustay.csv, echo_icustay.csv, rad_icustay.csv). To run our code without them just comment import and usage of these notes. 
 
 2 - Modeling of our three tasks: mortality prediction, length of stay prediction, chest pathology classification
 
